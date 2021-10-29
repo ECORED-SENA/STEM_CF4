@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'La Integración Curricular y la Educación STEM',
     descripcionCurso:
-      'La integración curricular y la educación STEM como metodologías buscan continuar el proceso que empezó con relación a la necesidad de cambios en la educación para el siglo XXI. Que logre satisfacer el desarrollo de la cuarta revolución industrial y la sustentabilidad planetaria; los nuevos ciudadanos demandan nuevas habilidades y destrezas, en la actual sociedad del conocimiento, habilidades como comprensión de lectura, transmisión de conocimiento, redacción de textos, comunicación asertiva, pensamiento de diseño y el desarrollo de nuevas estrategias para la enseñanza aprendizaje',
+      'La integración curricular y la educación STEM como metodologías buscan continuar el proceso que empezó con relación a la necesidad de cambios en la educación para el siglo XXI. Que logre satisfacer el desarrollo de la cuarta revolución industrial y la sustentabilidad planetaria; los nuevos ciudadanos demandan nuevas habilidades y destrezas, en la actual sociedad del conocimiento, habilidades como comprensión de lectura, transmisión de conocimiento, redacción de textos, comunicación asertiva, pensamiento de diseño y el desarrollo de nuevas estrategias para la enseñanza aprendizaje.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -148,58 +148,56 @@ export default {
   referencias: [
     {
       referencia:
-        'Ander-Egg, E. (2001). El trabajo en equipo. Editorial Progreso. Recuperado de: ',
+        'Ander-Egg, E. (2001). El trabajo en equipo. Editorial Progreso.  ',
       link:
         'https://books.google.es/books?hl=es&lr=&id=3X9ap9zweMAC&oi=fnd&pg=PA11&dq=trabajo+en+equipo&ots=dNrKfPdxov&sig=6wvxBfe7sZ2ZkA7oreYCRDOJY5w#v=onepage&q=trabajo%20en%20equipo&f=false',
     },
     {
       referencia:
-        'Adriana, M. (2020) significado de valores. ¿Qué son Valores? Recuperado de: ',
+        'Adriana, M. (2020) significado de valores. ¿Qué son Valores?  ',
       link: 'https://www.significados.com/valores/',
     },
     {
       referencia:
-        'Güemes González, E. (2020). Proyecto de Innovación en Educación STEM. Valoración de las habilidades transversales en propuestas educativas STEM. Recuperado de: ',
+        'Güemes González, E. (2020). Proyecto de Innovación en Educación STEM. Valoración de las habilidades transversales en propuestas educativas STEM.  ',
       link:
         'https://repositorio.comillas.edu/xmlui/bitstream/handle/11531/42999/TFG%20-%20Guemes%20Gonzalez%2c%20Elena.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
-        'Educaweb (2020) Los 10 trabajos del futuro, muy ligados a las tecnologías y la salud. Recuperado de: ',
+        'Educaweb (2020) Los 10 trabajos del futuro, muy ligados a las tecnologías y la salud. ',
       link:
         'https://www.educaweb.com/noticia/2018/09/18/10-trabajos-futuro-muy-ligados-tecnologias-18560/',
     },
     {
-      referencia:
-        'Euroinnova (2020) Módulos formativos de la FP. Recuperado de: ',
+      referencia: 'Euroinnova (2020) Módulos formativos de la FP. ',
       link:
         'https://www.euroinnova.co/modulos-formativos#:~:text=Un%20m%C3%B3dulo%20formativo%20es%20un,competencia%20especifica%20que%20se%20aplica%2C',
     },
     {
       referencia:
-        'Iberdrola (2020) Educación STEM las carrearas con mayor demanda y futuro. Recuperado de: ',
+        'Iberdrola (2020) Educación STEM las carrearas con mayor demanda y futuro. ',
       link: 'https://www.iberdrola.com/talento/profesionales-stem',
     },
     {
       referencia:
-        'Miguel, C. F. S. (2004). Un enfoque pedagógico para el diseño de programas de formación en contextos organizativos. Teoría de la Educación. Revista Interuniversitaria, 16(1). Recuperado de: ',
+        'Miguel, C. F. S. (2004). Un enfoque pedagógico para el diseño de programas de formación en contextos organizativos. Teoría de la Educación. Revista Interuniversitaria, 16(1) ',
       link:
         'https://revistas.usal.es/index.php/1130-3743/article/view/3089/3116',
     },
     {
-      referencia:
-        'NACIONES UNIDAS. (2015). www.un.org. Obtenido de Naciones Unidas: ',
+      referencia: 'NACIONES UNIDAS. (2015). www.un.org. ',
       link: 'https://www.un.org/sustainabledevelopment/es/development-agenda/',
     },
     {
       referencia:
-        'OBS Bussines school.(2020).Competencias digitales:aprendizaje continuo. Recuperado de: ',
+        'OBS Bussines school.(2020).Competencias digitales: aprendizaje continuo. ',
       link:
         'https://obsbusiness.school/es/blog-investigacion/social-media/competencias-digitales-aprendizaje-continuo',
     },
     {
       referencia:
-        'Portafolio (2020). El país tendrá 450.000 trabajos en el 2030. Recuperado de: ',
+        'Portafolio (2020). El país tendrá 450.000 trabajos en 2030. ',
       link:
         'https://www.portafolio.co/economia/el-pais-tendra-450-000-trabajos-stem-en-2030-537699',
     },
@@ -210,27 +208,31 @@ export default {
     },
     {
       referencia:
-        'Tecnológico de monterrey (2020). Construcción de módulos formativos. Recuperado de: ',
+        'Tecnológico de monterrey (2020). Construcción de módulos formativos. ',
       link: 'http://cca.org.mx/profesores/cursos/hmfbc_2/m3/u2-01.html',
     },
     {
       referencia:
-        'Universidad de servilla (2020) Centro de formación permanente guía para el diseño de acciones ',
+        'Universidad de servilla (2020) Centro de formación permanente guía para el diseño de acciones formativas. ',
       link: 'https://cfp.us.es/web/elearning/guia/_07.htm',
     },
     {
       referencia:
-        'Barraza, A. (2007) La gestión de los procesos de innovación. Recuperado de: ',
+        'Barraza, A. (2007) La gestión de los procesos de innovación. ',
       link:
         'https://www.researchgate.net/publication/28170494_La_gestion_de_los_procesos_de_innovacion',
     },
     {
       referencia:
-        'Bybee, R. (2013) The Case for STEM Education: Challenges and Opportunities. National Science Teachers Association, NSTA Press, Arlington, Virginia. ',
+        'Bybee, R. (2013) The Case for STEM Education: Challenges and Opportunities. National Science Teachers Association, NSTA Press. ',
+    },
+    {
+      referencia: 'Espinosa, J. B. (2018) ¿Qué es STEAM? Educol. ',
+      link: 'https://docplayer.es/142341611-Universidad-tecnica-del-norte.html',
     },
     {
       referencia:
-        'Villanueva G. & de la Luz de las Casas, M. (2010) E-competencias: nuevas habilidades del estudiante en la era de la educación, la globalidad y la generación del conocimiento. Recuperado de: ',
+        'Villanueva G. & de la Luz de las Casas, M. (2010) E-competencias: nuevas habilidades del estudiante en la era de la educación, la globalidad y la generación del conocimiento. ',
       link: 'https://www.redalyc.org/pdf/860/86019348008.pdf',
     },
     {
@@ -279,7 +281,7 @@ export default {
         'https://webdelmaestrocmf.com/portal/como-evaluar-mediante-rubricas-engoogle-classroom/ ',
     },
     {
-      texto: 'University of Colorado (s.f.) Interactive Simulations. ',
+      texto: '<i>University of Colorado (s.f.) Interactive Simulations.</i> ',
       tipo: 'Artículo',
       link: 'https://phet.colorado.edu/en/simulations/category/new',
     },
@@ -300,26 +302,24 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nadia Patricia Granados Amado',
-        cargo: 'Instructor Técnico BPO',
+        nombre: 'Iván M González',
+        cargo: 'Experto Temático',
         centro:
           'Centro de Gestión de Mercados Logística y Tecnologías de la Información - Regional Distrito Capital',
       },
       {
-        nombre: 'Adriana López',
-        cargo: 'Diseñadora instruccional',
-        centro:
-          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        nombre: 'María Cristina Hurtado Zúñiga',
+        cargo: 'Experta Temática',
+        centro: 'CDTI – Sena Regional Valle',
       },
       {
-        nombre: 'Ana Catalina Córdoba Sus',
-        cargo: 'Revisora Metodológica y Pedagógica',
-        centro:
-          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Evaluadora instruccional',
+        centro: 'Centro de gestión industrial - Regional distrito capital',
       },
       {
-        nombre: 'José Gabriel Ortiz Abella',
-        cargo: 'Corrector de estilo',
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Diseñador y evaluador instruccional',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },

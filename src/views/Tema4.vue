@@ -84,7 +84,7 @@
         LineaTiempoD.color-acento-contenido
           p(numero="8" titulo="Gratitud") Se refiere a ser agradecidos con todas aquellas personas que nos ayudan y brindan apoyo.
 
-          p(numero="9" titulo="Hummildad") Capacidad de reconocer nuestras limitaciones y debilidades sin sentir pena ni culpa.
+          p(numero="9" titulo="Humildad") Capacidad de reconocer nuestras limitaciones y debilidades sin sentir pena ni culpa.
 
           p(numero="10" titulo="Solidaridad") Principio que nos permite dar nuestra ayuda a cualquier persona desamparada.
 

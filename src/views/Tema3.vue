@@ -16,9 +16,9 @@
       .col-lg-9.p-5
         .row.align-items-center.h100
           .col-12
-            p.mb-0 La Organización de las Naciones Unidas hahan proyectado un camino donde todos los países son protagonistas, para acabar con la pobreza, trabajar por la igualdad, la lucha contra el cambio climático, la conservación del planeta y garantizar la educación inclusiva y para todos. Todo enmarcado en 17 objetivos los cuales se deben trabajar como base hasta el año 2030, una década de cambio donde cada país miembro se compromete a cumplirlos.
+            p.mb-0 La Organización de las Naciones Unidas ha proyectado un camino donde todos los países son protagonistas, para acabar con la pobreza, trabajar por la igualdad, la lucha contra el cambio climático, la conservación del planeta y garantizar la educación inclusiva y para todos. Todo enmarcado en 17 objetivos los cuales se deben trabajar como base hasta el año 2030, una década de cambio donde cada país miembro se compromete a cumplirlos.
 
-    p.mb-5 Para tener en cuenta en relación con la Educación de Calidad, en su cuarto objetivo, las Naciones Unidas describen:
+    p.mb-5 Para tener en cuenta en relación con la #[strong Educación de Calidad], en su cuarto objetivo, las Naciones Unidas describen:
 
     .tarjeta.img_bg_03.p-4.mb-5
       SlyderA
@@ -48,7 +48,7 @@
     #T_3_1.titulo-segundo
       h2 3.1 Definición
 
-    p.mb-5 La Organización de las naciones unidas (ONU) en su propuesta del año 2015, define su agenda para el desarrollo sostenible como:
+    p.mb-5 La Organización de las Naciones Unidas (ONU) en su propuesta del año 2015, define su agenda para el desarrollo sostenible como:
 
     .dan.img_bg_04
 
@@ -69,7 +69,7 @@
           .cajon.cajon--cl_primario.p-4.mb-4
             p.mb-0 La ONU indica que, para alcanzar el desarrollo sostenible, es fundamental armonizar tres elementos básicos: #[strong el crecimiento económico, la inclusión social y la protección del medio ambiente.]  Estos elementos están interrelacionados y son todos esenciales para el bienestar de las personas y las sociedades.
 
-          p.mb-5 También indica que se debe alcanzar la erradicación de la pobreza en todas sus formas y dimensiones, ya que es una condición indispensable para lograr el desarrollo sostenible. A tal fin, debe promoverse un crecimiento económico sostenible, inclusivo y equitativo, que cree mayores oportunidades para todos, que reduzca las desigualdades, mejore los niveles de vida básicos, fomente el desarrollo social equitativo e inclusivo y promueva la ordenación integrada y sostenible de los recursos naturales y los ecosistemas. (Naciones Unidas , 2015)
+          p.mb-5 También indica que se debe alcanzar la erradicación de la pobreza en todas sus formas y dimensiones, ya que es una condición indispensable para lograr el desarrollo sostenible. A tal fin, debe promoverse un crecimiento económico sostenible, inclusivo y equitativo, que cree mayores oportunidades para todos, que reduzca las desigualdades, mejore los niveles de vida básicos, fomente el desarrollo social equitativo e inclusivo y promueva la ordenación integrada y sostenible de los recursos naturales y los ecosistemas. (Naciones Unidas, 2015)
 
         .col-lg-6(data-aos="fade-left")
           img(src="@/assets/curso/tema_3/img_3_1_02.svg", alt="alt", style="width:450px;").m-auto
@@ -80,9 +80,9 @@
     #T_3_2.titulo-segundo
       h2 3.2 Agenda 2030
 
-    p.mb-5 En la agenda 2030 se proponen 17 objetivos para el desarrollo sostenible, una guía o ruta en la cual cada país miembro de la organización se compromete a cumplirlos. Los objetivos son:
+    p.mb-5 En la agenda 2030 se proponen 17 objetivos para el desarrollo sostenible, una guía o ruta en la cual cada país miembro de la organización se compromete a cumplirlos. Los objetivos son:    
 
-    SlyderD.mb-5(:datos="datosSlyder").mb-5
+    SlyderC.mb-5(:datos="datosSlyder").mb-5
 
     p.mb-5 A continuación, se puede ver una imagen con los 17 objetivos unificados:
 
@@ -195,7 +195,7 @@ export default {
       {
         titulo: 'Acción por el clima',
         texto:
-          'Objetivo 13. Garantizar modalidades de consumo y producción sostenibles.',
+          'Objetivo 13. Adoptar medidas urgentes para combatir el cambio climático y sus efectos.',
         imagen: require('@/assets/curso/tema_3/img_3_2_13.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

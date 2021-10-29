@@ -23,43 +23,43 @@
         .crd.clr_secundario_h
           p.mb-0.text-white Se debe seguir un modelo centrado en la resolución de problemas, esto implica realizar un conjunto de acciones que necesariamente deben ser desarrolladas de una manera deliberada y sistemática con el objetivo de lograr un cambio duradero que pueda ser considerado como una mejora de la situación previamente existente.
 
-    .row.clr_bg_01.pt-5.mb-5
-      .col-12
+    .row.justify-content-center.clr_bg_01.pt-5.mb-5
+      .col-lg-10
         p.mb-5 Para comenzar, se deben tener en cuenta las siguientes pautas que guíen el proceso de innovación:
 
-      PasosA.color-acento-contenido.mb-5(tipo="n")
-        .row.justify-content-center.align-items-center
-          .col-auto.mb-5.mb-lg-0
-            img(src="@/assets/curso/tema_1/img_1_03.svg", alt="alt").img_size2.m-auto
-          .col-lg
-            p.mb-0 La innovación con TIC debe permitir la planeación estratégica de un conjunto de acciones con el propósito de ampliar la cobertura y favorecer la inclusión social, cultural y económica en un entorno determinado.
+        PasosA.color-acento-contenido.mb-5(tipo="n")
+          .row.justify-content-center.align-items-center
+            .col-auto.mb-5.mb-lg-0
+              img(src="@/assets/curso/tema_1/img_1_03.svg", alt="alt").img_size2.m-auto
+            .col-lg
+              p.mb-0 La innovación con TIC debe permitir la planeación estratégica de un conjunto de acciones con el propósito de ampliar la cobertura y favorecer la inclusión social, cultural y económica en un entorno determinado.
 
-        .row.justify-content-center.align-items-center
-          .col-lg
-            p.mb-0.text-start La innovación con TIC en el aula, parte de una experiencia personal en la práctica docente, en la que se identifica una situación problema que afecta el sistema educativo o parte de este y se proponen soluciones basadas en investigaciones, para diversificar metodologías y escenarios que faciliten la enseñanza y el aprendizaje.
-          .col-auto
-            img(src="@/assets/curso/tema_1/img_1_04.svg", alt="alt").img_size2.m-auto
+          .row.justify-content-center.align-items-center
+            .col-lg
+              p.mb-0.text-start La innovación con TIC en el aula, parte de una experiencia personal en la práctica docente, en la que se identifica una situación problema que afecta el sistema educativo o parte de este y se proponen soluciones basadas en investigaciones, para diversificar metodologías y escenarios que faciliten la enseñanza y el aprendizaje.
+            .col-auto
+              img(src="@/assets/curso/tema_1/img_1_04.svg", alt="alt").img_size2.m-auto
 
-        .row.justify-content-center.align-items-center
-          .col-auto.mb-5.mb-lg-0
-            img(src="@/assets/curso/tema_1/img_1_05.svg", alt="alt").img_size2.m-auto
-          .col-lg
-            p.mb-0 La innovación no es un proceso solitario ni aislado, es interdisciplinario, involucra varios actores del sistema educativo a través del intercambio y la colaboración. La vinculación del entorno es fundamental, así como la creación de alianzas entre instituciones educativas.
+          .row.justify-content-center.align-items-center
+            .col-auto.mb-5.mb-lg-0
+              img(src="@/assets/curso/tema_1/img_1_05.svg", alt="alt").img_size2.m-auto
+            .col-lg
+              p.mb-0 La innovación no es un proceso solitario ni aislado, es interdisciplinario, involucra varios actores del sistema educativo a través del intercambio y la colaboración. La vinculación del entorno es fundamental, así como la creación de alianzas entre instituciones educativas.
 
-        .row.justify-content-center.align-items-center
-          .col-lg
-            p.mb-0.text-start La innovación debe estar articulada con las políticas institucionales y gubernamentales.
-          .col-auto
-            img(src="@/assets/curso/tema_1/img_1_06.svg", alt="alt").img_size2.m-auto
+          .row.justify-content-center.align-items-center
+            .col-lg
+              p.mb-0.text-start La innovación debe estar articulada con las políticas institucionales y gubernamentales.
+            .col-auto
+              img(src="@/assets/curso/tema_1/img_1_06.svg", alt="alt").img_size2.m-auto
 
-        .row.justify-content-center.align-items-center
-          .col-auto.mb-5.mb-lg-0
-            img(src="@/assets/curso/tema_1/img_1_07.svg", alt="alt").img_size2.m-auto
-          .col-lg
-            p.mb-0 Toda innovación debe acoplarse de forma integral al currículo y al sistema educativo en el que se implementa.
+          .row.justify-content-center.align-items-center
+            .col-auto.mb-5.mb-lg-0
+              img(src="@/assets/curso/tema_1/img_1_07.svg", alt="alt").img_size2.m-auto
+            .col-lg
+              p.mb-0 Toda innovación debe acoplarse de forma integral al currículo y al sistema educativo en el que se implementa.
 
       .crd.clr_acentoContenido(data-aos="flip-up")
-        p.mb-0 #[strong En las instituciones educativas existen tres áreas básicas en las que se pueden realizar innovaciones: la gestión institucional y administrativa; en la gestión del currículo y en la gestión de la enseñanza.]  
+        p.mb-0 #[strong En las instituciones educativas existen tres áreas básicas en las que se pueden realizar innovaciones: en la gestión institucional y administrativa; en la gestión del currículo y en la gestión de la enseñanza.]  
           
 
     .row.justify-content-center.align-items-center

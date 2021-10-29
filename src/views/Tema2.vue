@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.img_bg_02
     
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
@@ -30,17 +30,17 @@
 
         .col-md.col-lg-6
           h3 Panoramas de empleabilidad y la educación STEM
-          p.mb-4 La educación STEM es relativamente nueva a nivel mundial. Sin embargo, si echamos una mirada a los países con mejor desempeño en los resultados de las pruebas PISA  de países como:
+          p.mb-4 A continuación se presenta un panorama general de la educación STEM, su efecto y bondades en los países con mejor desempeño en los resultados de las pruebas PISA.         
           
           a.boton.color-acento-botones.clr_text_sistema(:href="obtenerLink('/downloads/CF4-2_Panoramas_empleabilidad.pdf')" target="_blank" type="application/pdf")
             span.clr_text_sistema Descargar
             i.clr_text_sistema.fas.fa-file-download
     .row.gx-0.mb-5
       .col-lg-5
-        .crd.clr_secundario_h.h100.p-5
+        .crd.clr_secundario_h.h100.p-5.cross_BG
           .row.align-items-center.h100
             .col-12
-              p.text-white.mb-0 La educación STEM es una gran oportunidad para integrar a Colombia en el proceso de modernización de la educación, según Portafolio (2020) para el 2030 Colombia necesitará 450.000 empleos en las áreas STEM, según Marco Casarín gerente de Microsoft Colombia proyecta esta es la cifra que se calcula actualmente para una demanda creciente año tras año, actualmente solo el 33% de esta demanda se satisface en el mundo con empleados con estas habilidades tecnológicas.	
+              p.text-white.mb-0 La educación STEM es una gran oportunidad para integrar a Colombia en el proceso de modernización de la educación, según Portafolio (2020) para el 2030 Colombia necesitará 450.000 empleos en las áreas STEM, según Marco Casarín gerente de Microsoft Colombia proyecta esta es la cifra que se calcula actualmente para una demanda creciente año tras año, actualmente solo el 33 % de esta demanda se satisface en el mundo con empleados con estas habilidades tecnológicas.	
       .col-lg-7.clr_green
         figure
           img(src="@/assets/curso/tema_2/img_2_03.svg", alt="alt").m-auto
@@ -72,7 +72,7 @@
     #T_2_2.titulo-segundo
       h2 2.2 Nuevas oportunidades de empleo y la educación STEM
 
-    .row.justify-content-center.align-items-center.p-5.img_bg_02
+    .row.justify-content-center.align-items-center
       .col-lg-7.order-2.order-lg-1
         p Teniendo en cuenta que la tecnología mantiene en constante evolución como por ejemplo cuando se adquiere un equipo electrónico y en el transcurso de seis meses ese mismo artículo ingresa al mercado con una nueva versión mejorada o sencillamente es reemplazada por otra mejor, los empleos necesariamente no desaparecerán, estos serán transformados, y algunos nacerán, en el apartado anterior en la gráfica se ven empleos nuevos, pero a continuación se enlistan algunos donde se  prevé existirán en un futuro no muy lejano.
         .cajon.cajon--cl_primario.p-4.mb-4 
