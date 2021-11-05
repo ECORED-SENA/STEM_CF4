@@ -275,7 +275,7 @@ export default {
     },
     {
       texto:
-        'Web del maestro CMF (2020) Laboratorios Virtuales para cursos de Biología, Química, Física, Matemáticas y Tecnología. ',
+        '<i>Web</i> del maestro CMF (2020) Laboratorios Virtuales para cursos de Biología, Química, Física, Matemáticas y Tecnología. ',
       tipo: 'Artículo',
       link:
         'https://webdelmaestrocmf.com/portal/como-evaluar-mediante-rubricas-engoogle-classroom/ ',
@@ -303,13 +303,13 @@ export default {
       },
       {
         nombre: 'Iván M González',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro:
           'Centro de Gestión de Mercados Logística y Tecnologías de la Información - Regional Distrito Capital',
       },
       {
         nombre: 'María Cristina Hurtado Zúñiga',
-        cargo: 'Experta Temática',
+        cargo: 'Experta temática',
         centro: 'CDTI – Sena Regional Valle',
       },
       {
@@ -344,7 +344,7 @@ export default {
       },
       {
         nombre: 'Daniel Ricardo Mutis Gómez',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },

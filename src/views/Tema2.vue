@@ -37,7 +37,7 @@
             i.clr_text_sistema.fas.fa-file-download
     .row.gx-0.mb-5
       .col-lg-5
-        .crd.clr_secundario_h.h100.p-5.cross_BG
+        .crd.clr_secundario_h.h100.p-5
           .row.align-items-center.h100
             .col-12
               p.text-white.mb-0 La educación STEM es una gran oportunidad para integrar a Colombia en el proceso de modernización de la educación, según Portafolio (2020) para el 2030 Colombia necesitará 450.000 empleos en las áreas STEM, según Marco Casarín gerente de Microsoft Colombia proyecta esta es la cifra que se calcula actualmente para una demanda creciente año tras año, actualmente solo el 33 % de esta demanda se satisface en el mundo con empleados con estas habilidades tecnológicas.	
@@ -93,7 +93,7 @@
             | Especialistas en impresión de alimentos en 3D.
           li
             i.fas.fa-check
-            | Chief Data Officer o responsables de datos.
+            | #[i Chief Data Officer] o responsables de datos.
           li
             i.fas.fa-check
             | Especialista en privacidad.
@@ -102,7 +102,7 @@
             | Diseñadores de órganos humanos.
           li
             i.fas.fa-check
-            | Especialistas en campañas de crowdfunding.
+            | Especialistas en campañas de #[i crowdfunding].
           li
             i.fas.fa-check
             | Diseñadores de avatares o responsable de relaciones con ellos.
