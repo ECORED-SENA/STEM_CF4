@@ -93,7 +93,7 @@
             | Especialistas en impresión de alimentos en 3D.
           li
             i.fas.fa-check
-            | #[i Chief Data Officer] o responsables de datos.
+            | #[span.italic Chief Data Officer] o responsables de datos.
           li
             i.fas.fa-check
             | Especialista en privacidad.
@@ -102,7 +102,7 @@
             | Diseñadores de órganos humanos.
           li
             i.fas.fa-check
-            | Especialistas en campañas de #[i crowdfunding].
+            | Especialistas en campañas de #[span.italic2 crowdfunding].
           li
             i.fas.fa-check
             | Diseñadores de avatares o responsable de relaciones con ellos.
