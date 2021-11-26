@@ -41,7 +41,7 @@
           .quoteCard__img
             img(src="@/assets/curso/tema_4/quote.svg", alt="alt")
 
-    p Por lo anterior, dentro de las habilidades más destacadas en el ámbito académico se encuentran las matemáticas y alfabetización tecnológica, pero es necesario desarrollar habilidades y capacidades híbridas en los instructores y aprendices de manera que éstos se relacionen en las diversas habilidades duras y blandas con son el uso y aplicación de los sistemas de información y comunicación (software, hardware) y habilidades blandas como la argumentación de las propias opiniones, la negociación de significados, el equilibrio afectivo, los idiomas, la capacidad de autoaprendizaje, la adaptación al cambio, la iniciativa y la perseverancia.
+    p Por lo anterior, dentro de las habilidades más destacadas en el ámbito académico se encuentran las matemáticas y alfabetización tecnológica, pero es necesario desarrollar habilidades y capacidades híbridas en los instructores y aprendices de manera que éstos se relacionen en las diversas habilidades duras y blandas como son el uso y aplicación de los sistemas de información y comunicación (software, hardware) y habilidades blandas como la argumentación de las propias opiniones, la negociación de significados, el equilibrio afectivo, los idiomas, la capacidad de autoaprendizaje, la adaptación al cambio, la iniciativa y la perseverancia.
 
     p.mb-5 Veamos algunas:
     
@@ -65,7 +65,7 @@
 
           p(numero="3" titulo="Justicia") Se trata de actuar y tomar las decisiones más equilibradas según cada persona o situación merezca.
 
-          p(numero="4" titulo="Libertad") Valor humano que poseemos las personas para tomar nuestras decisiones y poder expresar nuestros Sentimientos y opiniones.
+          p(numero="4" titulo="Libertad") Valor humano que poseemos las personas para tomar nuestras decisiones y poder expresar nuestros sentimientos y opiniones.
 
           p(numero="5" titulo="Tolerancia") Aceptar que todas las personas somos únicos con las cualidades y defectos que las identifican.
 

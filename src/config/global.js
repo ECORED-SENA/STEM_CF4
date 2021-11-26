@@ -44,7 +44,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Empleabilidad nacional e internacional y la educación STEM',
+        titulo: 'Panoramas de empleabilidad y la educación STEM',
         desarrolloContenidos: true,
         subMenu: [
           {
