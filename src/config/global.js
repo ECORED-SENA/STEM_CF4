@@ -228,7 +228,7 @@ export default {
     },
     {
       referencia: 'Espinosa, J. B. (2018) ¿Qué es STEAM? Educol. ',
-      link: 'https://docplayer.es/142341611-Universidad-tecnica-del-norte.html',
+      link: 'https://www.stemeducol.com/libro',
     },
     {
       referencia:
