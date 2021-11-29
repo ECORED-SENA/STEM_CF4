@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59.652" height="60.558" viewBox="0 0 59.652 60.558">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-2.057" y1="0.5" x2="3.057" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b99e"/>
+      <stop offset="1" stop-color="#00b99e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="-2.055" y1="0.5" x2="3.055" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="-2.057" y1="0.5" x2="3.056" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="-2.055" y1="0.5" x2="3.055" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-11" x1="-2.055" y1="0.5" x2="3.055" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Grupo_89011" data-name="Grupo 89011" transform="matrix(-0.996, -0.087, 0.087, -0.996, 55.131, 60.985)" style="isolation: isolate">
+    <g id="Grupo_78314" data-name="Grupo 78314" transform="translate(0 21.696)">
+      <g id="Grupo_78312" data-name="Grupo 78312" transform="translate(0 0)">
+        <rect id="Rectángulo_33717" data-name="Rectángulo 33717" width="2.379" height="12.167" transform="translate(12.167 4.893) rotate(90)" fill="url(#linear-gradient)"/>
+        <rect id="Rectángulo_33718" data-name="Rectángulo 33718" width="2.381" height="12.167" transform="translate(4.893 0)" fill="url(#linear-gradient-2)"/>
+      </g>
+      <g id="Grupo_78313" data-name="Grupo 78313" transform="translate(0 22.903)">
+        <rect id="Rectángulo_33719" data-name="Rectángulo 33719" width="2.381" height="12.167" transform="translate(12.167 4.893) rotate(90)" fill="url(#linear-gradient-3)"/>
+        <rect id="Rectángulo_33720" data-name="Rectángulo 33720" width="2.381" height="12.167" transform="translate(4.893 0)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="Grupo_78317" data-name="Grupo 78317" transform="translate(21.802 21.696)">
+      <g id="Grupo_78315" data-name="Grupo 78315" transform="translate(0 0)">
+        <rect id="Rectángulo_33721" data-name="Rectángulo 33721" width="2.379" height="12.166" transform="translate(12.166 4.893) rotate(90)" fill="url(#linear-gradient-5)"/>
+        <rect id="Rectángulo_33722" data-name="Rectángulo 33722" width="2.379" height="12.167" transform="translate(4.893 0)" fill="url(#linear-gradient-2)"/>
+      </g>
+      <g id="Grupo_78316" data-name="Grupo 78316" transform="translate(0 22.903)">
+        <rect id="Rectángulo_33723" data-name="Rectángulo 33723" width="2.381" height="12.166" transform="translate(12.166 4.893) rotate(90)" fill="url(#linear-gradient-7)"/>
+        <rect id="Rectángulo_33724" data-name="Rectángulo 33724" width="2.379" height="12.167" transform="translate(4.893 0)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="Grupo_78320" data-name="Grupo 78320" transform="translate(43.602 21.696)">
+      <g id="Grupo_78318" data-name="Grupo 78318" transform="translate(0 0)">
+        <rect id="Rectángulo_33725" data-name="Rectángulo 33725" width="2.379" height="12.167" transform="translate(12.167 4.893) rotate(90)" fill="url(#linear-gradient)"/>
+        <rect id="Rectángulo_33726" data-name="Rectángulo 33726" width="2.381" height="12.167" transform="translate(4.893 0)" fill="url(#linear-gradient-2)"/>
+      </g>
+      <g id="Grupo_78319" data-name="Grupo 78319" transform="translate(0 22.903)">
+        <rect id="Rectángulo_33727" data-name="Rectángulo 33727" width="2.381" height="12.167" transform="translate(12.167 4.893) rotate(90)" fill="url(#linear-gradient-11)"/>
+        <rect id="Rectángulo_33728" data-name="Rectángulo 33728" width="2.381" height="12.167" transform="translate(4.893 0)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="Grupo_78322" data-name="Grupo 78322" transform="translate(0 0)">
+      <g id="Grupo_78321" data-name="Grupo 78321" transform="translate(0 0)">
+        <rect id="Rectángulo_33729" data-name="Rectángulo 33729" width="2.379" height="12.167" transform="translate(12.167 4.893) rotate(90)" fill="url(#linear-gradient)"/>
+        <rect id="Rectángulo_33730" data-name="Rectángulo 33730" width="2.381" height="12.167" transform="translate(4.893 0)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="Grupo_78324" data-name="Grupo 78324" transform="translate(21.802 0)">
+      <g id="Grupo_78323" data-name="Grupo 78323" transform="translate(0 0)">
+        <rect id="Rectángulo_33731" data-name="Rectángulo 33731" width="2.379" height="12.166" transform="translate(12.166 4.893) rotate(90)" fill="url(#linear-gradient-5)"/>
+        <rect id="Rectángulo_33732" data-name="Rectángulo 33732" width="2.379" height="12.167" transform="translate(4.893 0)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="Grupo_78326" data-name="Grupo 78326" transform="translate(43.602 0)">
+      <g id="Grupo_78325" data-name="Grupo 78325" transform="translate(0 0)">
+        <rect id="Rectángulo_33733" data-name="Rectángulo 33733" width="2.379" height="12.167" transform="translate(12.167 4.893) rotate(90)" fill="url(#linear-gradient)"/>
+        <rect id="Rectángulo_33734" data-name="Rectángulo 33734" width="2.381" height="12.167" transform="translate(4.893 0)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>
